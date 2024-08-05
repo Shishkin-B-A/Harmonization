@@ -8,7 +8,7 @@
     "text": "Shishkin A. Boris"
   },
   "text": {
-    "more": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "more": "",
     "intro": "Harmonization tactics and related topics of Russian-language political media discourse",
     "title": "Harmonization tactics and related themes of Russian-language political media discourse"
   },
@@ -23,7 +23,7 @@
     "hoverBehavior": "default"
   },
   "informationPanel": {
-    "groupByEdgeDirection": true,
+    "groupByEdgeDirection": false,
     "imageAttribute": false
   },
   "sigma": {
