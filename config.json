@@ -23,7 +23,7 @@
     "hoverBehavior": "default"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": false
   },
   "sigma": {
@@ -37,13 +37,13 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14
+      "defaultLabelSize": 20
     },
     "graphProperties": {
       "maxEdgeSize": 5,
       "minEdgeSize": 0.5,
       "minNodeSize": 10,
-      "maxNodeSize": 35
+      "maxNodeSize": 30
     },
     "mouseProperties": {
       "maxRatio": 20,
